@@ -702,9 +702,6 @@ footer {
     color: #ffffff;
 }
 
-.footer-about-icon {
-    /* padding: 10px; */
-}
 
 .footer-about-icon a {
     border: 1px solid #28a745;
@@ -843,4 +840,21 @@ footer {
     background-color: #ffffff;
     padding: 10px 0;
     font-weight: 600;
+}
+.fa-angles-up{
+    color: #ffffff;
+}
+.go-to-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    width: 50px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+    color: #ffffff;
+    background-color: #17A2B8;
+    cursor: pointer;
 }
